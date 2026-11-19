@@ -24,7 +24,7 @@
 **方式一：克隆后安装为 DSH 技能（推荐）**
 
 ```bash
-git clone https://github.com/<你的用户名>/wechat-academic-layout.git
+git clone https://github.com/z4pt9f75zz-design/wechat-academic-layout.git
 cd wechat-academic-layout
 ./install.sh          # 复制到 ~/.dsh/skills/wechat-academic-layout
 ```
@@ -44,7 +44,7 @@ python3 scripts/build.py 论文.docx --theme sage --with-title -o out
 PowerShell 里复制目录即可：
 
 ```powershell
-git clone https://github.com/<你的用户名>/wechat-academic-layout.git
+git clone https://github.com/z4pt9f75zz-design/wechat-academic-layout.git
 Copy-Item -Recurse .\wechat-academic-layout "$HOME\.dsh\skills\wechat-academic-layout"
 ```
 
